@@ -10,7 +10,7 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 
 [Params]
-  dateFormat = "January 2, 2006"
+  dateFormat = "January 2, 2023"
   commit = false
   rss = false
 
